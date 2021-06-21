@@ -5,7 +5,7 @@ My current skills are:
 - React, React-Native, Vue
 - NodeJS, PHP
 - SASS
-– JAMSTACK (Gatsby)
+- JAMSTACK (Gatsby)
 
 Contact me:
 - [valimaki.io](https://valimaki.io)
