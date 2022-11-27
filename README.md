@@ -1,13 +1,13 @@
 # Hi I'm a Full Stack Software Developer & Graphic Designer
-I'm currently working full-time on an agency.
+I'm currently working full-time as a software developer and a part-time entrepreneur.
 
-My current skills are:
+## My expertise:
 - React, Vue 2 & 3
 - React Native
-- NodeJS, PHP
-- SASS
+- NodeJS
+- CSS/SASS
 - JAMSTACK (Gatsby)
-
-Contact me:
-- [valimaki.io](https://valimaki.io)
-- [samuli@middlehill.fi](mailto:samuli@middlehill.fi)
+- 
+## Contact me:
+- [samulivalimaki.com](https://samulivalimaki.com)
+- [hello@samulivalimaki.com](mailto:hello@samulivalimaki.com)
