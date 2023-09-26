@@ -10,3 +10,4 @@ I'm currently working full-time as a software developer and a part-time entrepre
 ## Contact me:
 - [samulivalimaki.com](https://samulivalimaki.com)
 - [hello@samulivalimaki.com](mailto:hello@samulivalimaki.com)
+- [Work Github](https://github.com/testomuli)
