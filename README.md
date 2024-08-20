@@ -5,8 +5,6 @@ Passionate about clean code and minimalistic design.
 I work full-time at Sitowise and also engage in part-time freelance work.
 @Sitowise, my projects primarily center around map observations and location services.
 
-🧙🏼‍♂️ internet-wizard LVL: 99 🔮
-
 ## My expertise:
 - React, Vue (Nuxt, Next, Gatsby)
 - React Native
