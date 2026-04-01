@@ -1,17 +1,22 @@
 # Software Developer & Graphic Designer
-I'm a software developer, with a strong focus on UI/UX, based in Jyväskylä, Finland. 🇫🇮
-Passionate about clean code and minimalistic design.
+I'm a versatile software developer with expertise across frontend, backend, DevOps, and cloud platforms, based in Jyväskylä, Finland. 🇫🇮
 
-I work full-time at Sitowise and also engage in part-time freelance work.
-@Sitowise, my projects primarily center around map observations and location services.
+I'm passionate about clean code and minimalistic design.
+
+I work full-time at Sitowise and also engage in part-time freelance work. At Sitowise, my projects primarily center around map observations and location services.
+
+**I use Neovim BTW**
 
 ## My expertise:
-- React, Vue (Nuxt, Next, Gatsby)
+- React, Svelte, Vue (Nuxt, SvelteKit NextJS)
 - React Native
 - NodeJS (NestJS, Express)
-- CSS/SASS (Tailwind UI)
+- Go
+- Python
+- CSS/SASS
+- Tailwind
   
-_Also worked in projects with JAVA (SpringBoot), PHP (Symfony) and Python_
+_Also worked in projects with JAVA (SpringBoot), PHP (Symfony)_
   
 ## Contact me:
 - [samulivalimaki.com](https://samulivalimaki.com)
