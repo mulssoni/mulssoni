@@ -1,4 +1,3 @@
-# Software Developer & Graphic Designer
 I'm a versatile software developer with expertise across frontend, backend, DevOps, and cloud platforms, based in Jyväskylä, Finland. 🇫🇮
 
 I'm passionate about clean code and minimalistic design.
