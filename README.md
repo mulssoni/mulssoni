@@ -1,4 +1,4 @@
-I'm a versatile software developer with expertise across frontend, backend, DevOps, and cloud platforms, based in Jyväskylä, Finland. 🇫🇮
+I'm a versatile software developer with expertise across frontend, backend, DevOps, and cloud platforms.
 
 I'm passionate about clean code and minimalistic design.
 
